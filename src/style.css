@@ -1,0 +1,6 @@
+:root{
+    --swiper-theme-color: #66BB6A;
+}
+.swiper-pagination{
+    top: 550px;
+}
